@@ -32,7 +32,7 @@ python yolo_face_detection.py
 
 ## Demo
 
-![Demo](Screenshot 2023-09-13 at 11.52.21 AM.png)
+![Demo](face.png)
 
 ## Contributing
 
