@@ -30,9 +30,9 @@ This Python script uses the YOLO (You Only Look Once) model implemented with Ope
 python yolo_face_detection.py
 ```
 
-## Demo
-
-![Demo](face.png)
+## Architecture & Demo
+![Architecture & Demo](yolo-architecture.png)
+![Architecture & Demo](face.png)
 
 ## Contributing
 
