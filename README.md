@@ -31,7 +31,7 @@ python yolo_face_detection.py
 ```
 
 ## Architecture & Demo
-![Architecture & Demo](yolo-architecture.png)
+![Architecture & Demo](yolo-architecture1.png)
 ![Architecture & Demo](face.png)
 
 ## Contributing
